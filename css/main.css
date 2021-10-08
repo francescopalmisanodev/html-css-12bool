@@ -1,0 +1,12 @@
+.box{
+    min-height: 50px;
+    background-color: blue;
+    color:white;
+    border: 1px solid white;
+    text-align: center;
+    padding:5px;
+}
+.row .row .box{
+    background-color: green;
+    border: 1px solid blue;
+}
