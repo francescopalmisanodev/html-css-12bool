@@ -1,0 +1,18 @@
+.box{
+    height: 100px;
+}
+.bg-dblue{
+    background: #303f46;
+}
+.bg-white{
+    background: white;
+}
+.bg-pblue{
+    background: #607d8b;
+}
+.bg-pink{
+    background: #ffcdd2;
+}
+.bg-black{
+    background: black;
+}
